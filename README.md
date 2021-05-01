@@ -1,6 +1,6 @@
 ### Hi Everyone 👋
 
-We are RLSoluttionsCR, a startup making developed & technologies recearch from Costa Rica
+We are RLSoluttionsCR, a startup that does development and technology research from Costa Rica
 
 * Currently working for [@rlsoluttionscr](https://github.com/rlsoluttionscr)
 * I have a [YouTube channel](https://youtube.com/rlsoluttionscr) (in Spanish)
