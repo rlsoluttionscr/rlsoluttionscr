@@ -8,21 +8,19 @@ We are RLSoluttionsCR, a startup that does development and technology research f
 
 ## Skills
 
-* Using ubuntu Technologies since 2017
-* AWS, Upcloud, Docker, Azure & Amazing Tech Cloud 
-* Critical thinking, decision-making and problem solving skills
-* Python coding is Love <3
-* Learning skills and experience to all startups.
+* Using Linux and experience to all startups.
 * If u are from Costa Rica, Contact us ( https://wa.link/1w2fjl )
 
 ## Proyects
 
-* Odoo 10 & 12 Development
+* Odoo 10,12 & 15 Development Modules
 * Node.Js / React / JavaScript / Python
 * Ubuntu Servers & Cloud technologies
 * Microsoft Windows Server Tech
-* Network Making over Ubiquiti &Mikrotik Technologies
+* Network Making over Ubiquiti & Mikrotik Technologies
 * Technical Suport & Help Desk for outsourcing
+* SysAdmin & Cibersecurity Tech
+* Cloudflare Partner
 
 <!--
 **rlsoluttionscr/rlsoluttionscr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
