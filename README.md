@@ -13,7 +13,7 @@ We are RLSoluttionsCR, a startup that does development and technology research f
 
 ## Proyects
 
-* Odoo 10,12 & 15 Development Modules
+* Odoo 10,12,15 & 17 Development Modules
 * Node.Js / React / JavaScript / Python
 * Ubuntu Servers & Cloud technologies
 * Microsoft Windows Server Tech
