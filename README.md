@@ -19,10 +19,11 @@ We are RLSoluttionsCR, a startup that does development and technology research f
 * Node.Js / React / JavaScript / Python
 * Ubuntu Servers & Cloud technologies
 * Microsoft Windows Server Tech
+* Vmware Virtualization Tecnologys
 * Network Making over Ubiquiti & Mikrotik Technologies
-* Technical Suport & Help Desk for outsourcing
+* Technical Suport & Help Desk for Outsourcing
 * SysAdmin & Cibersecurity Tech
-* Cloudflare Partner
+* Cloudflare Partner Network
 
 <!--
 **rlsoluttionscr/rlsoluttionscr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
