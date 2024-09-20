@@ -10,10 +10,12 @@ We are RLSoluttionsCR, a startup that does development and technology research f
 
 * Using Linux and experience to all startups.
 * If u are from Costa Rica, Contact us ( https://wa.link/1w2fjl )
+* DataCenter Building for DOSIMPLECR - Cloud Soluttions
 
 ## Proyects
 
 * Odoo 10,12,15 & 17 Development Modules
+* Costa Rica Localization For Odoo Parthers
 * Node.Js / React / JavaScript / Python
 * Ubuntu Servers & Cloud technologies
 * Microsoft Windows Server Tech
